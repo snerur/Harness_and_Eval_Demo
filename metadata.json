@@ -1,0 +1,6 @@
+{
+  "name": "Agent Harness & Eval Studio",
+  "description": "Interactive workbench for building, testing, and continuously improving agentic AI applications with test harnesses, multi-layer evals, constraint enforcement, and performance dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
